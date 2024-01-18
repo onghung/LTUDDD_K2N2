@@ -1,0 +1,4 @@
+#Thu Jan 18 20:06:16 ICT 2024
+base.0=/Users/tronghung/StudioProjects/ltuddd_k2n2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
